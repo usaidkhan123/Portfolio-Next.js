@@ -64,7 +64,7 @@ const Experience = () => {
         
         <div className="mt-12 text-center">
           <button className="bg-purple-700 text-white px-8 py-3 rounded-lg hover:bg-blue-700 transition-colors">
-            Let's Work Together
+            Lets Work Together
           </button>
         </div>
       </div>
