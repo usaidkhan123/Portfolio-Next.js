@@ -10,9 +10,9 @@ export default function CompactContact() {
             <Sparkles className="w-8 h-8 text-purple-400 animate-pulse" />
           </div>
           <h2 className="text-3xl font-bold bg-purple-700 bg-clip-text text-transparent mb-2">
-            Let's Create Magic
+            Lets Create Magic
           </h2>
-          <p className="text-gray-600">Drop me a line and let's build something amazing</p>
+          <p className="text-gray-600">Drop me a line and lets build something amazing</p>
         </div>
 
         {/* Main Contact Card */}
@@ -37,7 +37,7 @@ export default function CompactContact() {
                   </div>
                   <div className="flex items-center space-x-3">
                     <MapPin className="w-5 h-5" />
-                    <span className="text-sm">Karachi ,Sindh</span>
+                    <span className="text-sm">Karachi Sindh</span>
                   </div>
                 </div>
 
