@@ -6,7 +6,7 @@ const Hero = () => {
         <section id="hero">
             <div className="bg-[url('/images/blbgimg.webp')] bg-cover h-screen flex flex-col justify-center items-start px-6 md:px-20">
     <div className="pt-20 md:pt-32 space-y-4 md:space-y-6 -mt-64">
-        <p className="text-lg md:text-xl font-serif text-purple-700 mb-4 md:mb-2 font-semibold">I am,</p>
+        <p className="text-lg md:text-xl font-serif text-purple-700 mb-4 md:mb-2 font-semibold">I am</p>
         <h1 className="text-4xl sm:text-6xl md:text-8xl font-serif font-semibold leading-tight md:leading-none">
             Muhammad <br />
             <span className="pl-6 sm:pl-12 md:pl-28">Usaid</span>
