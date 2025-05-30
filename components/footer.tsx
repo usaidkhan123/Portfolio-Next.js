@@ -26,7 +26,7 @@ export default function PortfolioFooter() {
               <span className="text-xl font-bold text-gray-900">Portfolio</span>
             </div>
             <p className="text-gray-600 mb-6 max-w-md">
-              Creating beautiful, functional, and performant web experiences with modern technologies.
+              Creating beautiful functional and performant web experiences with modern technologies.
             </p>
             <div className="flex space-x-3">
               <a
@@ -102,7 +102,7 @@ export default function PortfolioFooter() {
                 musiadkhan39@gmail.com
                 </a>
               </li>
-              <li className="text-gray-600">Karachi ,Sindh</li>
+              <li className="text-gray-600">Karachi Sindh</li>
             </ul>
 
             {/* Newsletter */}
