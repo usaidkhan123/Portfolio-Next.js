@@ -47,18 +47,18 @@ const About = () => {
               
               <p className="text-gray-600 text-lg leading-relaxed mb-6">
                 
-"I'm a passionate Frontend Developer based in Karachi, specializing in crafting beautiful and intuitive user interfaces. With expertise in modern frontend technologies and frameworks, I transform creative designs into seamless, responsive web experiences."e.
+"Im a passionate Frontend Developer based in Karachi specializing in crafting beautiful and intuitive user interfaces. With expertise in modern frontend technologies and frameworks and i transform creative designs into seamless and responsive web experiences."
               </p>
               
               <p className="text-gray-600 text-lg leading-relaxed mb-8">
-              My journey in frontend development began with curiosity about how websites work and has evolved into a professional career dedicated to crafting exceptional user experiences and pixel-perfect interfaces."
+              My journey in frontend development began with curiosity about how websites work and has evolved into a professional career dedicated to crafting exceptional user experiences and pixel-perfect interfaces.
               </p>
   
               {/* Personal Details */}
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                 <div>
                   <span className="text-gray-500 text-sm block">Location</span>
-                  <p className="font-medium text-gray-900">Karachi, Pakistan</p>
+                  <p className="font-medium text-gray-900">Karachi Pakistan</p>
                 </div>
                 <div>
                   <span className="text-gray-500 text-sm block">Experience</span>
